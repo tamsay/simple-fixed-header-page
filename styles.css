@@ -1,0 +1,19 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+header{
+    height: 10vh;
+}
+
+main{
+    height: 90vh;
+    padding: 0em 1em;
+    font-size: 2.5rem;
+}
+h1{
+    text-align: center;
+    font-size: 3rem;
+}
